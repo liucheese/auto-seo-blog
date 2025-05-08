@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+myenv/
+
+# VSCode/IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+
+# Cursor/Cache
+.cursor-server/
+.cache/
+.local/
+.ssh/
+
+# Logs
+logs/
+*.log
+
+# Generated content
+blogs/
+images/
+dify-generated-content/ 
+
+# env
+.env

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+aiofiles
+requests
+pydantic
+boto3
+botocore
+Pillow
